@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "name": "Installation check",
+  "entries": [
+    {
+      "kind": "plugin",
+      "key": "lifecycle-demo",
+      "name": "Lifecycle demo",
+      "description": "Public installation and update fixture",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/byh-plugin-installation-check"
+      }
+    }
+  ]
+}

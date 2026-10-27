@@ -1,0 +1,19 @@
+{
+  "key": "lifecycle-demo",
+  "version": "1.0.0",
+  "abi": "byh-ui-1",
+  "name": "Lifecycle demo",
+  "description": "Public installation and update fixture",
+  "author": "Build Your Harness",
+  "entry": "ui/index.js",
+  "preferences": "preferences/index.js",
+  "capabilities": {
+    "app": [
+      "themes",
+      "panels",
+      "windows",
+      "preferences",
+      "settings"
+    ]
+  }
+}

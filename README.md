@@ -1,12 +1,11 @@
-# BYH plugin installation check
+# Lifecycle demo
 
-A small executable BYH plugin for testing installation from GitHub Releases,
-repository links, repository stars, updates and persistent preferences.
+Public installation and update fixture for Build Your Harness.
 
-The plugin adds a demo panel, a window, a theme and one saved text preference.
-It uses BYH's public SDK and UI. It has no backend or network requests.
-Use a separate BYH test profile. This is a test package, not a marketplace.
+Version 1.0.0.
 
-Release assets: lifecycle-demo-1.0.0.byh-plugin and
-lifecycle-demo-2.0.0.byh-plugin. Each archive contains manifest.json, README.md,
-ui/index.js and preferences/index.js. SDK/UI/Vue are provided by BYH.
+This demo provides a notes panel, a native window, a theme and local preferences.
+It uses the public BYH SDK and shared controls. It has no backend or external
+network service. Only the selected isolated test profile is used.
+
+[Change notes](CHANGELOG.md)
