@@ -1,25 +1,25 @@
 # Lifecycle demo
 
-Public installation and documentation-viewer fixture for Build Your Harness.
-Version 2.0.1. The plugin code is unchanged except for its displayed version.
+Public acceptance fixture for BYH catalog loading. Version 2.0.2.
+The plugin runtime is unchanged except for its displayed version.
 
-![Documentation ready](https://img.shields.io/badge/documentation-ready-green)
+The catalog contains one installable plugin and 99 deliberately unavailable
+network sentinels. Do not install the sentinels: they verify that browsing and
+searching a catalog does not request every recommended repository.
 
-## Image preview
+## Four image requests
 
-Open this package image in a viewer tab and reopen BYH to check restoration.
+![Preview one](resources/wire-1.png)
 
-![Connection color swatches](resources/preview.png)
+![Preview two](resources/wire-2.png)
+
+![Preview three](resources/wire-3.png)
+
+![Preview four](resources/wire-4.png)
 
 ## Diagram
 
 ```mermaid
 flowchart LR
-  Catalog --> Plugin
-  Plugin --> Documentation
-  Documentation --> Viewer
+    Catalog --> Plugin --> Documentation --> Viewer
 ```
-
-<details><summary>About this check</summary><p>This public test plugin has no backend or external service. Images use the host documentation loader.</p></details>
-
-[Change notes](CHANGELOG.md)

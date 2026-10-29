@@ -11,6 +11,996 @@
       "source": {
         "repository": "build-your-harness/byh-plugin-installation-check"
       }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 001",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-001"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 002",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-002"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 003",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-003"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 004",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-004"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 005",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-005"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 006",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-006"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 007",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-007"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 008",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-008"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 009",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-009"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 010",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-010"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 011",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-011"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 012",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-012"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 013",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-013"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 014",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-014"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 015",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-015"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 016",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-016"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 017",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-017"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 018",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-018"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 019",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-019"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 020",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-020"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 021",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-021"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 022",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-022"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 023",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-023"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 024",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-024"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 025",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-025"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 026",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-026"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 027",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-027"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 028",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-028"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 029",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-029"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 030",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-030"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 031",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-031"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 032",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-032"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 033",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-033"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 034",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-034"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 035",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-035"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 036",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-036"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 037",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-037"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 038",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-038"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 039",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-039"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 040",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-040"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 041",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-041"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 042",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-042"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 043",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-043"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 044",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-044"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 045",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-045"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 046",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-046"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 047",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-047"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 048",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-048"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 049",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-049"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 050",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-050"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 051",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-051"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 052",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-052"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 053",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-053"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 054",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-054"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 055",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-055"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 056",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-056"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 057",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-057"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 058",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-058"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 059",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-059"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 060",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-060"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 061",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-061"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 062",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-062"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 063",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-063"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 064",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-064"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 065",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-065"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 066",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-066"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 067",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-067"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 068",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-068"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 069",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-069"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 070",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-070"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 071",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-071"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 072",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-072"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 073",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-073"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 074",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-074"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 075",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-075"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 076",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-076"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 077",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-077"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 078",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-078"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 079",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-079"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 080",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-080"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 081",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-081"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 082",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-082"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 083",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-083"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 084",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-084"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 085",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-085"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 086",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-086"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 087",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-087"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 088",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-088"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 089",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-089"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 090",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-090"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 091",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-091"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 092",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-092"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 093",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-093"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 094",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-094"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 095",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-095"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 096",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-096"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 097",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-097"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 098",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-098"
+      }
+    },
+    {
+      "kind": "plugin",
+      "key": "sentinel",
+      "name": "Network sentinel 099",
+      "description": "Acceptance fixture only. Do not install. This repository must not be requested during catalog search.",
+      "author": "Build Your Harness",
+      "source": {
+        "repository": "build-your-harness/acceptance-sentinel-099"
+      }
     }
   ]
 }

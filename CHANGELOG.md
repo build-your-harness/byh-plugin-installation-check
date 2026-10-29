@@ -1,3 +1,7 @@
+# 2.0.2
+
+Add a catalog network acceptance fixture and four README images.
+
 # Change notes
 
 ## 2.0.1
