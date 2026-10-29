@@ -1,6 +1,6 @@
 {
   "key": "lifecycle-demo",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "abi": "byh-ui-1",
   "name": "Lifecycle demo",
   "description": "Public installation and update fixture",
